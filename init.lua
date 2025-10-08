@@ -14,4 +14,4 @@ vim.opt.rtp:prepend(lazypath)
 require("vim-options")
 require("lazy").setup("plugins")
 
-vim.cmd.colorscheme "qtcreator"
+vim.cmd.colorscheme "rose-pine"

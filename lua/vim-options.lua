@@ -25,7 +25,7 @@ vim.keymap.set("i", "<C-h>", "<C-w>", {})
 vim.keymap.set("v", "<C-c>", "\"+y", {})
 
 vim.opt.list = true
-vim.opt.listchars:append("space:.")
+vim.opt.listchars:append("space:·")
 
 vim.api.nvim_create_autocmd("BufWritePre", {
   pattern = "*",

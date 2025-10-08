@@ -24,23 +24,22 @@
 
 ## Key Bindings
 ### Autocompletion
-`<Enter>` (i) - confirm autocompletion
+* `<Enter>` (i) - confirm autocompletion
 
 ### Git
-`<Space>lg` (n) - open lazygit menu (`:LazyGit`)\
+* `<Space>lg` (n) - open lazygit menu (`:LazyGit`)
 
 ### NeoTree
-`<Ctrl>n` (n) - reveal filesystem (`:Neotree filesystem reveal left`)
+* `<Ctrl>n` (n) - reveal filesystem (`:Neotree filesystem reveal left`)
 
 ### Telescope
-`<Ctrl>p` (n) - find files\
-`<Space>fg` (n) - live grep
+* `<Ctrl>p` (n) - find files
 
 ### ToggleTerm
-`<Ctrl>t` (n) - open/close terminal
+* `<Ctrl>t` (n) - open/close terminal
 
 ### Other
-`<Ctrl><Backspace>` (i) - delete word
+* `<Ctrl><Backspace>` (i) - delete word
 
 ## Theme
-`onedark`
+`qtcreator-dark`
